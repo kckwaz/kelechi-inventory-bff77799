@@ -47,6 +47,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+#connectsTo: ""
 
 runtime: nodejs
